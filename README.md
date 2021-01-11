@@ -1,2 +1,2 @@
 ﻿# flask-vue-crud
- This is a POC application using
+ This is a POC application using Python
